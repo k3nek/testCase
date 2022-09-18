@@ -1,2 +1,127 @@
 <test>
+    <test-case id="NoMatch">
+        <q>Здравствуйте, подскажите, пожалуйста, почему приложение не читает qr-код для оплаты квитанции</q>
+        <a state="/NoMatch"/>
+        <q>Здравствуйте,мне пристани приходить на почту электронные квитанции за оплату коммунальных услуг.Как мне оплачивать через вообще приложении?Я не могу вставить QR код для оплаты.Я нажимаю оплатить по коду,высвечивается только чтобы я отсканировала код и все,а как мне его вставить из фотогалереи,?</q>
+        <a state="/NoMatch"/>
+        <q>Здравствуйте. Подскажите пожалуйста, где можно получить QR-код для перевода денег.</q>
+        <a state="/NoMatch"/>
+        <q>Как создают qr код для перевода мне</q>
+        <a state="/NoMatch"/>
+        <q>Подскажите где взять qr код для зачисления</q>
+        <a state="/NoMatch"/>
+        <q>Почему нет смс с кодом??? Покупаю авиабилеты, оплату произвожу по карте, куда уходит код для подтверждения оплаты???</q>
+        <a state="/NoMatch"/>
+        <q>Здравствуйте )подскажите как можно узнать свой куар код для счёта моего ?</q>
+        <a state="/NoMatch"/>
+        <q>Скажите, я поменяла пин код в мобильном приложении, через какое время можно будет воспользоваться банкоматом?</q>
+        <a state="/NoMatch"/>
+        <q>пин код</q>
+        <a state="/NoMatch"/>
+        <q>Пин</q>
+        <a state="/NoMatch"/>
+        <q>Подскажите пин код где записан карты?</q>
+        <a state="/NoMatch"/>
+        <q>Мне нужно было оплатить товар картой (пластиком). Для оплаты необходимо ввести пин-код. Я ввела новый пин-код, но он не подошёл.</q>
+        <a state="/NoMatch"/>
+        <q>Мой пин код</q>
+        <a state="/NoMatch"/>
+        <q>Нет,не удалось,после повтора ввода пин кода пишет что то пошло не так</q>
+        <a state="/NoMatch"/>
+        <q>еще вопрос - у меня по карте пин-код установился? я в настройках сейчас вроде поменяла, код подтверждения ввела, но потом вышло уведомление «что-то пошло не так»</q>
+        <a state="/NoMatch"/>
+        <q>Ввела не правильно пин код</q>
+        <a state="/NoMatch"/>
+        <q>Управление пин кодом</q>
+        <a state="/NoMatch"/>
+        <q>Сменился пин-код</q>
+        <a state="/NoMatch"/>
+        <q>Пин код в приложении установила</q>
+        <a state="/NoMatch"/>
+        <q>Здравствуйте. Хотелось бы сделать невозможным доступ к оповещениям на экране ввода пин-кода.</q>
+        <a state="/NoMatch"/>
+        <q>Никакой. Будто все ок. А в банкомате написано неверный пин или позднее</q>
+        <a state="/NoMatch"/>
+        <q>Репина</q>
+        <a state="/NoMatch"/>
+        <q>пинкод</q>
+        <a state="/NoMatch"/>
+    </test-case>
+    
+    <test-case id="forgetPassSpecify">
+        <q>Забыла пароль, как быть?</q>
+        <a state="/forgetPass/forgetPassSpecify"/>
+        <q>Изменить пароль</q>
+        <a state="/forgetPass/forgetPassSpecify"/>
+        <q>Если забыл пароль</q>
+        <a state="/forgetPass/forgetPassSpecify"/>
+        <q>Как надо изменить пароль</q>
+        <a state="/forgetPass/forgetPassSpecify"/>
+        <q>Не помню пароль</q>
+        <a state="/forgetPass/forgetPassSpecify"/>
+        <q>Как сменить пароль?</q>
+        <a state="/forgetPass/forgetPassSpecify"/>
+        <q>А как поменять пароль?</q>
+        <a state="/forgetPass/forgetPassSpecify"/>
+        <q>Как поменять пароль?</q>
+        <a state="/forgetPass/forgetPassSpecify"/>
+        <q>Как изменить пароль</q>
+        <a state="/forgetPass/forgetPassSpecify"/>
+        <q>Поменять пароль</q>
+        <a state="/forgetPass/forgetPassSpecify"/>
+        <q>Здравствуйте, как сменить пароль?</q>
+        <a state="/forgetPass/forgetPassSpecify"/>
+        <q>Привет как поменять пароль</q>
+        <a state="/forgetPass/forgetPassSpecify"/>
+        <q>Не получается сменить пароль</q>
+        <a state="/forgetPass/forgetPassSpecify"/>
+        <q>День добрый !Забыла пароль , как самостоятельно сменить его</q>
+        <a state="/forgetPass/forgetPassSpecify"/>
+        <q>Забыла пароль</q>
+        <a state="/forgetPass/forgetPassSpecify"/>
+        <q>Добрый день а как мне пароль поменять я забыл какой я создал пароль</q>
+        <a state="/forgetPass/forgetPassSpecify"/>
+        <q>Добрый вечер, помогите, надо поменять пароль. Как это сделать</q>
+        <a state="/forgetPass/forgetPassSpecify"/>
+        <q>Здравствуйте пароль забыл</q>
+        <a state="/forgetPass/forgetPassSpecify"/>
+        <q>Как изменить пароль?</q>
+        <a state="/forgetPass/forgetPassSpecify"/>
+        <q>Сменить пароль</q>
+        <a state="/forgetPass/forgetPassSpecify"/>
+        <q>Добрый вечер, как сменить пароль?</q>
+        <a state="/forgetPass/forgetPassSpecify"/>
+        <q>Не могу сменить ПИН!?</q>
+        <a state="/forgetPass/forgetPassSpecify"/>
+        <q>Смена пинкода</q>
+        <a state="/forgetPass/forgetPassSpecify"/>
+        <q>В разделе настройки нет графы сменить пин-код</q>
+        <a state="/forgetPass/forgetPassSpecify"/>
+        <q>Здравствуйте забыла пин код</q>
+        <a state="/forgetPass/forgetPassSpecify"/>
+        <q>Здравствуйте пин код не могу поменять</q>
+        <a state="/forgetPass/forgetPassSpecify"/>
+        <q>Добрый день не могу сменить пин-код выдает ошибку не удалось отправить SMS</q>
+        <a state="/forgetPass/forgetPassSpecify"/>
+        <q>Что делать если забрал пинкод?</q>
+        <a state="/forgetPass/forgetPassSpecify"/>
+        <q>Забыл пинкод</q>
+        <a state="/forgetPass/forgetPassSpecify"/>
+        <q>Изменение пин</q>
+        <a state="/forgetPass/forgetPassSpecify"/>
+        <q>Где делать настройки по замене пинкода? В программе или в банкомате?</q>
+        <a state="/forgetPass/forgetPassSpecify"/>
+        <q>Как восмтановить пинк код</q>
+        <a state="/forgetPass/forgetPassSpecify"/>
+        <q>Как сменить пинкод</q>
+        <a state="/forgetPass/forgetPassSpecify"/>
+        <q>Смс какая нибудь должна прийти после ввода кода и изменения пин кода?</q>
+        <a state="/forgetPass/forgetPassSpecify"/>
+        <q>Забыла PIN, как востановить?</q>
+        <a state="/forgetPass/forgetPassSpecify"/>
+        <q>Забыла пинкод?как сменить?</q>
+        <a state="/forgetPass/forgetPassSpecify"/>
+        <q>Сменить PIN</q>
+        <a state="/forgetPass/forgetPassSpecify"/>
+    </test-case>
 </test>    
