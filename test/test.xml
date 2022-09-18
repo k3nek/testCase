@@ -124,4 +124,192 @@
         <q>Сменить PIN</q>
         <a state="/forgetPass/forgetPassSpecify"/>
     </test-case>
+    
+    <test-case id="forgetPassCard">
+        <q>Как в приложении сменить пароль на пластиковой карте</q>
+        <a state="/forgetPass/forgetPassSpecify/forgetPassCard"/>
+        <a state="/forgetPass/forgetPassSpecify/forgetPassCard/forgetPassCardAnsEnd"/>
+        <a state="/Bye"/>
+        <q>Подскажите пожалуйста как поменять на карте пароль если не помништ</q>
+        <a state="/forgetPass/forgetPassSpecify/forgetPassCard"/>
+        <a state="/forgetPass/forgetPassSpecify/forgetPassCard/forgetPassCardAnsEnd"/>
+        <a state="/Bye"/>
+        <q>Забыла пароль от карты</q>
+        <a state="/forgetPass/forgetPassSpecify/forgetPassCard"/>
+        <a state="/forgetPass/forgetPassSpecify/forgetPassCard/forgetPassCardAnsEnd"/>
+        <a state="/Bye"/>
+        <q>Как поменять пароль на карте</q>
+        <a state="/forgetPass/forgetPassSpecify/forgetPassCard"/>
+        <a state="/forgetPass/forgetPassSpecify/forgetPassCard/forgetPassCardAnsEnd"/>
+        <a state="/Bye"/>
+        <q>Забыл пароль от карточки что делать ?</q>
+        <a state="/forgetPass/forgetPassSpecify/forgetPassCard"/>
+        <a state="/forgetPass/forgetPassSpecify/forgetPassCard/forgetPassCardAnsEnd"/>
+        <a state="/Bye"/>
+        <q>Как вспомнить пароль от карты</q>
+        <a state="/forgetPass/forgetPassSpecify/forgetPassCard"/>
+        <a state="/forgetPass/forgetPassSpecify/forgetPassCard/forgetPassCardAnsEnd"/>
+        <a state="/Bye"/>
+        <q>Как сделать новый пароль на карте?</q>
+        <a state="/forgetPass/forgetPassSpecify/forgetPassCard"/>
+        <a state="/forgetPass/forgetPassSpecify/forgetPassCard/forgetPassCardAnsEnd"/>
+        <a state="/Bye"/>
+        <q>Забыл пароль карты что можно сделать</q>
+        <a state="/forgetPass/forgetPassSpecify/forgetPassCard"/>
+        <a state="/forgetPass/forgetPassSpecify/forgetPassCard/forgetPassCardAnsEnd"/>
+        <a state="/Bye"/>
+        <q>Как изменить пароль на карте?</q>
+        <a state="/forgetPass/forgetPassSpecify/forgetPassCard"/>
+        <a state="/forgetPass/forgetPassSpecify/forgetPassCard/forgetPassCardAnsEnd"/>
+        <a state="/Bye"/>
+        <q>Здравствуйте, а что делать если забыла пароль от карты</q>
+        <a state="/forgetPass/forgetPassSpecify/forgetPassCard"/>
+        <a state="/forgetPass/forgetPassSpecify/forgetPassCard/forgetPassCardAnsEnd"/>
+        <a state="/Bye"/>
+        <q>Забыл пароль от карточки</q>
+        <a state="/forgetPass/forgetPassSpecify/forgetPassCard"/>
+        <a state="/forgetPass/forgetPassSpecify/forgetPassCard/forgetPassCardAnsEnd"/>
+        <a state="/Bye"/>
+        <q>Здравствуйте, что делать если забыл пароль от карты</q>
+        <a state="/forgetPass/forgetPassSpecify/forgetPassCard"/>
+        <a state="/forgetPass/forgetPassSpecify/forgetPassCard/forgetPassCardAnsEnd"/>
+        <a state="/Bye"/>
+        <q>Как поменять пароль пароль карты?</q>
+        <a state="/forgetPass/forgetPassSpecify/forgetPassCard"/>
+        <a state="/forgetPass/forgetPassSpecify/forgetPassCard/forgetPassCardAnsEnd"/>
+        <a state="/Bye"/>
+        <q>Здравствуйте! Что делать, если забыл пароль от карты?</q>
+        <a state="/forgetPass/forgetPassSpecify/forgetPassCard"/>
+        <a state="/forgetPass/forgetPassSpecify/forgetPassCard/forgetPassCardAnsEnd"/>
+        <a state="/Bye"/>
+        <q>Как изменить пароль карточки?</q>
+        <a state="/forgetPass/forgetPassSpecify/forgetPassCard"/>
+        <a state="/forgetPass/forgetPassSpecify/forgetPassCard/forgetPassCardAnsEnd"/>
+        <a state="/Bye"/>
+        <q>Здраствуйте, потскажите как поменять пароль в личном кабинете карты?</q>
+        <a state="/forgetPass/forgetPassSpecify/forgetPassCard"/>
+        <a state="/forgetPass/forgetPassSpecify/forgetPassCard/forgetPassCardAnsEnd"/>
+        <a state="/Bye"/>
+        <q>Забыл пароль от карты</q>
+        <a state="/forgetPass/forgetPassSpecify/forgetPassCard"/>
+        <a state="/forgetPass/forgetPassSpecify/forgetPassCard/forgetPassCardAnsEnd"/>
+        <a state="/Bye"/>
+        <q>Какисменить пароль карты</q>
+        <a state="/forgetPass/forgetPassSpecify/forgetPassCard"/>
+        <a state="/forgetPass/forgetPassSpecify/forgetPassCard/forgetPassCardAnsEnd"/>
+        <a state="/Bye"/>
+        <q>Если я забыла пароль на карте, где мне его теперь взять?</q>
+        <a state="/forgetPass/forgetPassSpecify/forgetPassCard"/>
+        <a state="/forgetPass/forgetPassSpecify/forgetPassCard/forgetPassCardAnsEnd"/>
+        <a state="/Bye"/>
+        <q>Забыла пароль от карты</q>
+        <a state="/forgetPass/forgetPassSpecify/forgetPassCard"/>
+        <a state="/forgetPass/forgetPassSpecify/forgetPassCard/forgetPassCardAnsEnd"/>
+        <a state="/Bye"/>
+        <q>Забыл пароль от карты</q>
+        <a state="/forgetPass/forgetPassSpecify/forgetPassCard"/>
+        <a state="/forgetPass/forgetPassSpecify/forgetPassCard/forgetPassCardAnsEnd"/>
+        <a state="/Bye"/>
+        <q>Как скинуть пароль на карте</q>
+        <a state="/forgetPass/forgetPassSpecify/forgetPassCard"/>
+        <a state="/forgetPass/forgetPassSpecify/forgetPassCard/forgetPassCardAnsEnd"/>
+        <a state="/Bye"/>
+        <q>Подскажите пожалуйста как можно восстановить пароль от карты</q>
+        <a state="/forgetPass/forgetPassSpecify/forgetPassCard"/>
+        <a state="/forgetPass/forgetPassSpecify/forgetPassCard/forgetPassCardAnsEnd"/>
+        <a state="/Bye"/>
+        <q>Забыл пароль от карты</q>
+        <a state="/forgetPass/forgetPassSpecify/forgetPassCard"/>
+        <a state="/forgetPass/forgetPassSpecify/forgetPassCard/forgetPassCardAnsEnd"/>
+        <a state="/Bye"/>
+        <q>Здравствуйте,забыла пароль от карты,как можно поменять?</q>
+        <a state="/forgetPass/forgetPassSpecify/forgetPassCard"/>
+        <a state="/forgetPass/forgetPassSpecify/forgetPassCard/forgetPassCardAnsEnd"/>
+        <a state="/Bye"/>
+        <q>Здравствуйте. Не получается в приложении измерить пин код на карте</q>
+        <a state="/forgetPass/forgetPassSpecify/forgetPassCard"/>
+        <a state="/forgetPass/forgetPassSpecify/forgetPassCard/forgetPassCardAnsEnd"/>
+        <a state="/Bye"/>
+        <q>Не могу сменить пин код карты</q>
+        <a state="/forgetPass/forgetPassSpecify/forgetPassCard"/>
+        <a state="/forgetPass/forgetPassSpecify/forgetPassCard/forgetPassCardAnsEnd"/>
+        <a state="/Bye"/>
+        <q>Здравствуйте , как поменять пин код карты ?</q>
+        <a state="/forgetPass/forgetPassSpecify/forgetPassCard"/>
+        <a state="/forgetPass/forgetPassSpecify/forgetPassCard/forgetPassCardAnsEnd"/>
+        <a state="/Bye"/>
+        <q>У меня заблокировали карту после трёх попыток. Как я могу поменять пин код на Новый ? Видимо , старый я забыла.</q>
+        <a state="/forgetPass/forgetPassSpecify/forgetPassCard"/>
+        <a state="/forgetPass/forgetPassSpecify/forgetPassCard/forgetPassCardAnsEnd"/>
+        <a state="/Bye"/>
+        <q>Здравствуйте, не могу изменить пин код и отказаться от уведомлений по карте, уже неделю.</q>
+        <a state="/forgetPass/forgetPassSpecify/forgetPassCard"/>
+        <a state="/forgetPass/forgetPassSpecify/forgetPassCard/forgetPassCardAnsEnd"/>
+        <a state="/Bye"/>
+        <q>Я хочу менять пинкод карта . Как можно менять онлайн?</q>
+        <a state="/forgetPass/forgetPassSpecify/forgetPassCard"/>
+        <a state="/forgetPass/forgetPassSpecify/forgetPassCard/forgetPassCardAnsEnd"/>
+        <a state="/Bye"/>
+        <q>Добрый день, не верно ввёл пин код, пришло сообщение что карта заблокирована и нужно установить новый пин</q>
+        <a state="/forgetPass/forgetPassSpecify/forgetPassCard"/>
+        <a state="/forgetPass/forgetPassSpecify/forgetPassCard/forgetPassCardAnsEnd"/>
+        <a state="/Bye"/>
+        <q>добрый день! До сих пор не могу воспользоваться картой потому что не меняет пин код карты. Когда устраните проблему:</q>
+        <a state="/forgetPass/forgetPassSpecify/forgetPassCard"/>
+        <a state="/forgetPass/forgetPassSpecify/forgetPassCard/forgetPassCardAnsEnd"/>
+        <a state="/Bye"/>
+        <q>Добрый вечер, я забыла от своей премиум карты пин-код, я могу его просто сменить через приложение? Или запрашивается старый?</q>
+        <a state="/forgetPass/forgetPassSpecify/forgetPassCard"/>
+        <a state="/forgetPass/forgetPassSpecify/forgetPassCard/forgetPassCardAnsEnd"/>
+        <a state="/Bye"/>
+        <q>Как разблокировать карту и поменять ПИН</q>
+        <a state="/forgetPass/forgetPassSpecify/forgetPassCard"/>
+        <a state="/forgetPass/forgetPassSpecify/forgetPassCard/forgetPassCardAnsEnd"/>
+        <a state="/Bye"/>
+        <q>Здравствуйте.Почему я никак не могу поменять пин код на картах.</q>
+        <a state="/forgetPass/forgetPassSpecify/forgetPassCard"/>
+        <a state="/forgetPass/forgetPassSpecify/forgetPassCard/forgetPassCardAnsEnd"/>
+        <a state="/Bye"/>
+        <q>Добрый вечер! На одной из карт забыл пин код! Как восстановить пин код?</q>
+        <a state="/forgetPass/forgetPassSpecify/forgetPassCard"/>
+        <a state="/forgetPass/forgetPassSpecify/forgetPassCard/forgetPassCardAnsEnd"/>
+        <a state="/Bye"/>
+        <q>Как можно узнать пин код от карты? Я его забыла</q>
+        <a state="/forgetPass/forgetPassSpecify/forgetPassCard"/>
+        <a state="/forgetPass/forgetPassSpecify/forgetPassCard/forgetPassCardAnsEnd"/>
+        <a state="/Bye"/>
+        <q>Здравствуйте, не могу поменять пин-код на карте, выскакивает ошибка &quot; что то пошло не так&quot; после ввода пароля из смс</q>
+        <a state="/forgetPass/forgetPassSpecify/forgetPassCard"/>
+        <a state="/forgetPass/forgetPassSpecify/forgetPassCard/forgetPassCardAnsEnd"/>
+        <a state="/Bye"/>
+        <q>Здравствуйте. Как поменять пин код на карте, если забыла его?</q>
+        <a state="/forgetPass/forgetPassSpecify/forgetPassCard"/>
+        <a state="/forgetPass/forgetPassSpecify/forgetPassCard/forgetPassCardAnsEnd"/>
+        <a state="/Bye"/>
+        <q>Здравствуйте! Забыла пин код от карты</q>
+        <a state="/forgetPass/forgetPassSpecify/forgetPassCard"/>
+        <a state="/forgetPass/forgetPassSpecify/forgetPassCard/forgetPassCardAnsEnd"/>
+        <a state="/Bye"/>
+        <q>Забыла пин код от карты. Хочу сменить в приложении. Пишет что смс не отпраляется и изменения недоступны</q>
+        <a state="/forgetPass/forgetPassSpecify/forgetPassCard"/>
+        <a state="/forgetPass/forgetPassSpecify/forgetPassCard/forgetPassCardAnsEnd"/>
+        <a state="/Bye"/>
+        <q>Но это смена пин кода карты ?</q>
+        <a state="/forgetPass/forgetPassSpecify/forgetPassCard"/>
+        <a state="/forgetPass/forgetPassSpecify/forgetPassCard/forgetPassCardAnsEnd"/>
+        <a state="/Bye"/>
+        <q>Как установить новый пинкод на карту 5657</q>
+        <a state="/forgetPass/forgetPassSpecify/forgetPassCard"/>
+        <a state="/forgetPass/forgetPassSpecify/forgetPassCard/forgetPassCardAnsEnd"/>
+        <a state="/Bye"/>
+        <q>Поменяли вчера карту, нет пин кода. Старые не проходит. Что делать?</q>
+        <a state="/forgetPass/forgetPassSpecify/forgetPassCard"/>
+        <a state="/forgetPass/forgetPassSpecify/forgetPassCard/forgetPassCardAnsEnd"/>
+        <a state="/Bye"/>
+        <q>Здраствуйте у меня картый пин-кот забиль можите памоч</q>
+        <a state="/forgetPass/forgetPassSpecify/forgetPassCard"/>
+        <a state="/forgetPass/forgetPassSpecify/forgetPassCard/forgetPassCardAnsEnd"/>
+        <a state="/Bye"/>
+    </test-case>
+
 </test>    
