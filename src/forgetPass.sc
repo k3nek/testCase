@@ -16,8 +16,8 @@ theme: /forgetPass
             
         state: forgetPassApp
             q: * $1 *
-            q!: * {($forget/$change/$restore/$reset/потеря*/утеря*/вспомн*/напомн*) * $password * ($app/$lk/вход*)} *
-            q!: * {{$cannot * ($change/$restore/$reset/вспомн*/напомн*/отправ*/направ*/сделать/установить/задать/поставить)} * $password * ($app/$lk/вход*)} *
+            q!: * {($forget/$change/$restore/$reset/потеря*/утеря*/вспомн*/напомн*) * $password * ($app/$lk/вход*/доступ*)} *
+            q!: * {{$cannot * ($change/$restore/$reset/вспомн*/напомн*/отправ*/направ*/установить/задать/поставить)} * $password * ($app/$lk/вход*/доступ*)} *
             q!: * {($forget/$change/$restore/$reset/потеря*/утеря*/вспомн*/напомн*) * $password * логин*} *
             script:
                 $response.replies = $response.replies || [];

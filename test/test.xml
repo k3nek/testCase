@@ -311,5 +311,14 @@
         <a state="/forgetPass/forgetPassSpecify/forgetPassCard/forgetPassCardAnsEnd"/>
         <a state="/Bye"/>
     </test-case>
+    
+    <test-case>
+        <q>Как сменить пароль</q>
+        <a state="/forgetPass/forgetPassSpecify"/>
+        <q>2</q>
+        <a state="/forgetPass/forgetPassSpecify/forgetPassCard"/>
+        <a state="/forgetPass/forgetPassSpecify/forgetPassCard/forgetPassCardAnsEnd"/>
+        <a state="/Bye"/>
+    </test-case>
 
 </test>    
